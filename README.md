@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎯 Deeply interested in **AI with Cybersecurity**
+- 🎯 Deeply interested in **AI with Machine Learning**
 - 🛡️ Exploring **Ethical Hacking & System Security**
 - 🧠 Strengthening **DSA & Problem Solving**
 - 🌱 Building **high-tech intelligent systems**
